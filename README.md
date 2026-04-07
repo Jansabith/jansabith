@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Jan Sabith
 
-<!--
-**Jansabith/jansabith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Developer
+💻 Passionate about building web applications
+🌱 Currently learning: Django, React, FastAPI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+* 💻 Frontend: HTML, CSS, JavaScript, React
+* ⚙️ Backend: Django, FastAPI
+* 🗄️ Database: SQLite, PostgreSQL (learning)
+* 🛠️ Tools: Git, GitHub, VS Code
+
+---
+
+## 📈 What I'm Doing Now
+
+* 🔭 Building full stack projects
+* 📚 Improving problem-solving skills
+* ⚡ Learning modern backend frameworks
+
+---
+
+## 🎯 Goals
+
+* Become a professional Full Stack Developer in 2025
+* Build scalable and secure applications
+* Contribute to open-source projects
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/yourusername
+* LinkedIn: (Add your link here)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy learning new technologies and turning ideas into real-world applications 🚀
