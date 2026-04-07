@@ -33,8 +33,8 @@
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: (Add your link here)
+* GitHub: https://github.com/jansabith
+* LinkedIn: www.linkedin.com/in/jansabith
 
 ---
 
